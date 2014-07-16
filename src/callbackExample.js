@@ -1,5 +1,5 @@
 // Callback function example
-// (C) 2014 splashinn
+// splashinn
 
 data = 10;
         console.log('1) Data = ', data);
